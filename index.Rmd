@@ -1,6 +1,9 @@
 ---
 title: "Practice"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+    Theme: Cayman
+    highlight: github
 date: "February 2021"
 author: "Caroline Dumas"
 ---
